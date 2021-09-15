@@ -5,3 +5,9 @@ api-version: 1.17
 authors: [ gregvroberts ]
 description: A Spigot 1.17.1 Armor Stand GUI Plugin
 website: github.com/gregvroberts/ArmorStandGUI
+commands:
+  armorstand:
+    description: Create an armor stand
+    usage: /<command>
+    aliases:
+      - as
